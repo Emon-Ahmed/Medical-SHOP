@@ -1,5 +1,5 @@
 # Medical SHOP 
-> Medical SHOP - Bangladesh || eCommerce Website
+> Online medication and health supplies delivery platform.
 > Live Demo [_Click Here_](https://jobhunt-bangladesh.vercel.app/) <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
