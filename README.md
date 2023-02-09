@@ -1,6 +1,6 @@
 # Medical SHOP 
 > Online medication and health supplies delivery platform.
-> Live Demo [_Click Here_](https://jobhunt-bangladesh.vercel.app/) <!-- If you have the project hosted somewhere, include the link here. -->
+> Live Demo [_Click Here_](https://jobhunt-bangladesh.vercel.app/)
 
 ## Table of Contents
 * [General Info](#general-information)
